@@ -31,3 +31,11 @@ s
 Csrc/main/java/com/muccio/springcourse/services/CategoryService.java,b/6/b6c6dbc64e9d0bce0871913ef7796a45e32360cf
 u
 Esrc/main/java/com/muccio/springcourse/resources/CategoryResource.java,d/8/d8a8ceaa88e5032adc5dc481136aac40f45de123
+k
+;src/main/java/com/muccio/springcourse/entities/Product.java,9/4/94dc26aad6b476bf4496fd6f6dc7a040091aa5b4
+y
+Isrc/main/java/com/muccio/springcourse/repositories/ProductRepository.java,e/6/e62aa4b40d86792c53998400a10f701612147911
+t
+Dsrc/main/java/com/muccio/springcourse/resources/ProductResource.java,2/c/2ce6e58b8f5eb65e0a4d0857ad3dda126eb6a923
+r
+Bsrc/main/java/com/muccio/springcourse/services/ProductService.java,b/e/beab89dda6ed8a6827c9cfd63fce594dcd9b6f08
