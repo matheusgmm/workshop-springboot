@@ -39,3 +39,9 @@ t
 Dsrc/main/java/com/muccio/springcourse/resources/ProductResource.java,2/c/2ce6e58b8f5eb65e0a4d0857ad3dda126eb6a923
 r
 Bsrc/main/java/com/muccio/springcourse/services/ProductService.java,b/e/beab89dda6ed8a6827c9cfd63fce594dcd9b6f08
+r
+Bsrc/main/java/com/muccio/springcourse/entities/pk/OrderItemPK.java,b/f/bf1a2fc5b0bd91428b4a0da526abe7839051af21
+m
+=src/main/java/com/muccio/springcourse/entities/OrderItem.java,a/5/a5e6ec3ef853a329b38d55190fe2c2d226d29208
+{
+Ksrc/main/java/com/muccio/springcourse/repositories/OrderItemRepository.java,8/3/830b2dd69a2a9f883eefdd8b75fce352ca380b23
