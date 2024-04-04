@@ -23,3 +23,11 @@ r
 Bsrc/main/java/com/muccio/springcourse/resources/OrderResource.java,0/a/0ad1f98272264e6d05c9a7f449a6146eb7756629
 u
 Esrc/main/java/com/muccio/springcourse/entities/enums/OrderStatus.java,5/a/5aafb4e2a01deaa2b419faa999388263e6152a03
+l
+<src/main/java/com/muccio/springcourse/entities/Category.java,e/1/e1b04021fabbfab689f24e9ad9b7c2966cb9722c
+z
+Jsrc/main/java/com/muccio/springcourse/repositories/CategoryRepository.java,6/b/6b993754764a2a1a3c0b02d1e19561c0feead44b
+s
+Csrc/main/java/com/muccio/springcourse/services/CategoryService.java,b/6/b6c6dbc64e9d0bce0871913ef7796a45e32360cf
+u
+Esrc/main/java/com/muccio/springcourse/resources/CategoryResource.java,d/8/d8a8ceaa88e5032adc5dc481136aac40f45de123
