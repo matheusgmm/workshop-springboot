@@ -13,3 +13,11 @@ l
 <src/main/java/com/muccio/springcourse/config/TestConfig.java,1/f/1fa1b71a9f21222a2c9127a2a217f9fe22cdaa0a
 o
 ?src/main/java/com/muccio/springcourse/services/UserService.java,6/f/6f90f5ea9154480b594562947c49f3268f29eca5
+i
+9src/main/java/com/muccio/springcourse/entities/Order.java,6/9/69af8e2706e86f111bdc624798e513c5599397c7
+w
+Gsrc/main/java/com/muccio/springcourse/repositories/OrderRepository.java,f/8/f89b32bd936d7c56f889e21ddb5126b78f51d4d8
+p
+@src/main/java/com/muccio/springcourse/services/OrderService.java,4/b/4b1e9a6b58269bf2c66935a712ef3f3320f4c5c1
+r
+Bsrc/main/java/com/muccio/springcourse/resources/OrderResource.java,0/a/0ad1f98272264e6d05c9a7f449a6146eb7756629
