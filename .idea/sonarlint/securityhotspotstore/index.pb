@@ -21,3 +21,5 @@ p
 @src/main/java/com/muccio/springcourse/services/OrderService.java,4/b/4b1e9a6b58269bf2c66935a712ef3f3320f4c5c1
 r
 Bsrc/main/java/com/muccio/springcourse/resources/OrderResource.java,0/a/0ad1f98272264e6d05c9a7f449a6146eb7756629
+u
+Esrc/main/java/com/muccio/springcourse/entities/enums/OrderStatus.java,5/a/5aafb4e2a01deaa2b419faa999388263e6152a03
