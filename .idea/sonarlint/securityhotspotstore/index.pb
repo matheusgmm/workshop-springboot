@@ -11,3 +11,5 @@ v
 Fsrc/main/java/com/muccio/springcourse/repositories/UserRepository.java,7/2/728250f159c02c94dd6dc0c0f2cac3e95d196875
 l
 <src/main/java/com/muccio/springcourse/config/TestConfig.java,1/f/1fa1b71a9f21222a2c9127a2a217f9fe22cdaa0a
+o
+?src/main/java/com/muccio/springcourse/services/UserService.java,6/f/6f90f5ea9154480b594562947c49f3268f29eca5
