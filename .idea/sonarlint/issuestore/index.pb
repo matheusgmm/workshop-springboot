@@ -45,3 +45,5 @@ m
 =src/main/java/com/muccio/springcourse/entities/OrderItem.java,a/5/a5e6ec3ef853a329b38d55190fe2c2d226d29208
 {
 Ksrc/main/java/com/muccio/springcourse/repositories/OrderItemRepository.java,8/3/830b2dd69a2a9f883eefdd8b75fce352ca380b23
+k
+;src/main/java/com/muccio/springcourse/entities/Payment.java,9/d/9d41bfda2fa002f8bc38353fa9d2419be2e1125c
