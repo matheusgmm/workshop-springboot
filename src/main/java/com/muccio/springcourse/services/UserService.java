@@ -2,6 +2,7 @@ package com.muccio.springcourse.services;
 
 import com.muccio.springcourse.entities.User;
 import com.muccio.springcourse.repositories.UserRepository;
+import com.muccio.springcourse.services.exceptions.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -20,8 +21,8 @@ public class UserService {
     }
 
     public User findById(Long id) {
-        Optional<User> obj =  repository.findById(id);
-        return obj.get();
+        Optional<User> obj = repository.findById(id);
+        return obj.orElseThrow(() -> new ResourceNotFoundException(id));
     }
 
     public User insert(User obj) {

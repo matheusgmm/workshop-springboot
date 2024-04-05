@@ -47,3 +47,11 @@ m
 Ksrc/main/java/com/muccio/springcourse/repositories/OrderItemRepository.java,8/3/830b2dd69a2a9f883eefdd8b75fce352ca380b23
 k
 ;src/main/java/com/muccio/springcourse/entities/Payment.java,9/d/9d41bfda2fa002f8bc38353fa9d2419be2e1125c
+ˆ
+Xsrc/main/java/com/muccio/springcourse/services/exceptions/ResourceNotFoundException.java,7/5/75906b2ef021e80df9df7cb9b1554cacc292e972
+†
+Vsrc/main/java/com/muccio/springcourse/resources/exceptions/StandartErrorException.java,a/d/ad29c74f83f67604f667ee8c6d2352a1e7e2f9b5
+}
+Msrc/main/java/com/muccio/springcourse/resources/exceptions/StandartError.java,b/a/baed43104978e9e87cd05d7e576fd91dc3c0b614
+ˆ
+Xsrc/main/java/com/muccio/springcourse/resources/exceptions/ResourceExceptionHandler.java,5/6/56675c05e5dbd559121922549c70635b6defe448
