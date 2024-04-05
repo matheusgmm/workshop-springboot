@@ -55,3 +55,5 @@ Vsrc/main/java/com/muccio/springcourse/resources/exceptions/StandartErrorExcepti
 Msrc/main/java/com/muccio/springcourse/resources/exceptions/StandartError.java,b/a/baed43104978e9e87cd05d7e576fd91dc3c0b614
 ˆ
 Xsrc/main/java/com/muccio/springcourse/resources/exceptions/ResourceExceptionHandler.java,5/6/56675c05e5dbd559121922549c70635b6defe448
+€
+Psrc/main/java/com/muccio/springcourse/services/exceptions/DatabaseException.java,9/4/9479f29dd3f0210284aaebde6731b0523e9e7c0e
